@@ -6,3 +6,6 @@ Stepcharts imported by scraping http://www.ddrfreak.com/stepcharts/stepcharts.ph
 Gameplay:
 
 ![Alt text](https://i.imgur.com/7OnpOF2.png "Gameplay")
+
+![Alt text](https://i.imgur.com/PHo2y0w.png "Gameplay")
+
